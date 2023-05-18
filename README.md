@@ -1,7 +1,7 @@
 # basic-structure of-html
-header
-banner
-aside
-mid part
-fotter
+*header
+*banner
+*aside
+*mid part
+*fotter
 
